@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pos-react/static/css/main.da63409c.css",
+    "main.js": "/pos-react/static/js/main.c75423da.js",
+    "index.html": "/pos-react/index.html",
+    "main.da63409c.css.map": "/pos-react/static/css/main.da63409c.css.map",
+    "main.c75423da.js.map": "/pos-react/static/js/main.c75423da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da63409c.css",
+    "static/js/main.c75423da.js"
+  ]
+}
